@@ -14,7 +14,7 @@ function Pricing() {
                 <div className="pricing_wrapper">
                     <h1 className="pricing_heading">Products</h1>
                     <div className="pricing_container">
-                        <Link to='/sign-up' className='pricing_container-card'>
+                        <Link to='/' className='pricing_container-card'>
                             <div className="pricing_container-cardInfo">
                                 <div className="icon">
                                     <FaFire />
@@ -34,7 +34,7 @@ function Pricing() {
                             </div>
                         </Link>
 
-                        <Link to='/sign-up' className='pricing_container-card'>
+                        <Link to='/' className='pricing_container-card'>
                             <div className="pricing_container-cardInfo">
                                 <div className="icon">
                                     <GiMetalBar />
@@ -54,7 +54,7 @@ function Pricing() {
                             </div>
                         </Link>
 
-                        <Link to='/sign-up' className='pricing_container-card'>
+                        <Link to='/' className='pricing_container-card'>
                             <div className="pricing_container-cardInfo">
                                 <div className="icon">
                                     <GiCutDiamond />
